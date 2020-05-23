@@ -1,4 +1,4 @@
-# Computing in Optimization and Statistics: IAP 2019
+# Computing in Optimization and Statistics
 
 A computing compendium, compiled by researchers, for researchers.
 
